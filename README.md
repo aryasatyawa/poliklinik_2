@@ -13,15 +13,15 @@ Pasien : Rawat Jalan, Periksa Rawat Jalan.
 # Regulation
 <h1>Aryasatya Wistara Adhi</h1>
 <h1>DATABASE</h1>
-<h1>db: poli_bk, import 'poli_bk.sql'</h1>
+<h2>db: poli_bk, import 'poli_bk.sql'</h2>
 <h3>LOGIN ADMIN</h3>
 username : akuada<br>
 password : akuada
 <br>
 <h3>LOGIN DOKTER</h3>
-NIP : 11202113678
+NIP : 13678
 <br>
 password : aryasatya
 <br>
 <h3>Periksa pasien</h3>
-2024-06-27-11
+2024-01-05-1
